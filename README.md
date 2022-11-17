@@ -1,2 +1,2 @@
-# uwarutosama
-discord bot altyapi
+# Kullanmaya Başlamadın Önce Şunu Yazın:
+npm i
