@@ -1,0 +1,2 @@
+# uwarutosama
+discord bot altyapi
